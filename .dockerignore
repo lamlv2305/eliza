@@ -1,0 +1,9 @@
+node_modules
+/out
+
+*.gguf
+*.onnx
+*.wav
+*.mp3
+
+*.sqlite
