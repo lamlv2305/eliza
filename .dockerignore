@@ -7,3 +7,6 @@ node_modules
 *.mp3
 
 *.sqlite
+
+.github
+.vscode
